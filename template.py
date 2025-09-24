@@ -11,7 +11,7 @@ list_of_files = [
    # ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py"
     f"src/{project_name}/component/__init__.py",
-    f"src/{project_name}/component/data_ingestion,py",
+    f"src/{project_name}/component/data_ingestion.py",
     f"src/{project_name}/component/data_transformation.py",
     f"src/{project_name}/component/model_trainer.py",
     f"src/{project_name}/component/model_monitering.py",
